@@ -1,4 +1,5 @@
 body {
+    background-image: "images_maya/I_know_why_the_caged_bird_sings.jpg";
     background-color:orchid;
     text-align: center;
     font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif
@@ -19,6 +20,6 @@ p {
     font-style: oblique;
 }
 .styled-img {
-    border: 2pc;
+    border: 3px;
     color: purple;
 }
