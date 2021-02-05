@@ -18,3 +18,7 @@ h2 {
 p {
     font-style: oblique;
 }
+.styled-img {
+    border: 2pc;
+    color: purple;
+}
