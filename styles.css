@@ -8,6 +8,10 @@ h1 {
     font-size: 3rem;
     color:honeydew;
 }
+h2 {
+    font-weight: 600;
+    color:purple
+}
 .mydiv {
     margin: auto;
 }
